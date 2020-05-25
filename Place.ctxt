@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Place
+comment1.params=name\ what\ why\ stop
+comment1.target=Place(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ place\n\ \n\ @param\ name\ \ \ \ \ \ the\ name\ of\ the\ place\n\ \ \ \ \ \ \ \ what\ \ \ \ \ \ the\ description\ of\ what\ it\ is\n\ \ \ \ \ \ \ \ why\ \ \ \ \ \ \ why\ the\ location\ is\ on\ the\ list\n\ \ \ \ \ \ \ \ stop\ \ \ \ \ \ the\ cloests\ subway\ stop\ name\ but\ in\ string\ format\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ a\ getter\ method\n\ \n\ @return\ name\ \ \ \ \ the\ name\ of\ the\ place\n
+comment3.params=
+comment3.target=java.lang.String\ getWhat()
+comment3.text=\n\ a\ getter\ method\n\ \n\ @return\ what\ \ \ \ \ \ the\ description\ of\ what\ it\ is\n
+comment4.params=
+comment4.target=java.lang.String\ getWhy()
+comment4.text=\n\ a\ getter\ method\n\ \n\ @return\ why\ the\ location\ is\ on\ the\ list\n
+comment5.params=
+comment5.target=java.lang.String\ getStop()
+comment5.text=\n\ getter\ method.\ \n\ \n\ @return\ stop\ \ \ \ \ \ the\ cloests\ subway\ stop\ name\ but\ in\ string\ format\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ overriding\ the\ string\ method\n\ \n\ @return\ a\ string\ version\ to\ print\ \n
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\n\ overriding\ the\ equals\ method\n\ \n\ @return\ boolean\ \ \ \ \ \ true\ if\ the\ objects\ are\ equal\ on\ all\ aspects\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\ otherwise\n
+comment8.params=
+comment8.target=int\ hashCode()
+comment8.text=\n\ overriding\ the\ hashCode\ method\n\ \n\ @returns\ hashCode\ \ \ \ \ \ specifies\ how\ an\ object\ of\ this\ class\ should\ be\ hashed\ and\ looked\ up\ \n
+numComments=9

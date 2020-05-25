@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=QueryUser
+comment1.params=
+comment1.target=QueryUser()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ QueryUser\n\ \n\ @throws\ exception\ \ \ \ InvalidInputException\ during\ the\ process\ inorder\ to\ make\ sure\ the\ user\ is\ following\ directions\n\ \n
+comment2.params=allPlaces\ numPlaces
+comment2.target=java.lang.StringBuilder\ createIntroduction(java.util.ArrayList,\ int)
+comment2.text=\n\ helper\ method\ to\ create\ the\ introduction\ that\ will\ be\ printed\ to\ the\ user\n\ \n\ @return\ String\ version\ of\ the\ introduction\n
+comment3.params=
+comment3.target=java.lang.StringBuilder\ createInstructions()
+comment3.text=\n\ helper\ method\ to\ create\ the\ instructions\ that\ will\ be\ printed\ to\ the\ user\n\ \n\ @return\ String\ version\ of\ the\ instructions\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getItinerary()
+comment4.text=\n\ getter\ method\n\ \n\ @return\ itinerary\ \ \ \ the\ array\ list\ of\ all\ the\ places\ that\ the\ user\ wants\ to\ visit\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ while\ the\ user\ is\ in\ town\n\ \n
+comment5.params=
+comment5.target=java.util.ArrayList\ getStationsToVisit()
+comment5.text=\n\ getter\ method\n\ \n\ @return\ itinararyStation\ \ \ \ \ the\ array\ list\ of\ all\ the\ places\ that\ the\ user\ wants\ to\ visit\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ while\ the\ user\ is\ in\ town,\ but\ in\ the\ form\ of\ the\ closest\ stations\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ overriding\ the\ toString\ method\n\ \n\ @return\ a\ easily\ readable\ version\ of\ the\ itinerary\n\ \n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ for\ testing\n
+numComments=8

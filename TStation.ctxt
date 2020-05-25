@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TStation
+comment1.params=station_name\ line
+comment1.target=TStation(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ t_station\n\ \n\ @params\ station_name\ \ \ \ \ the\ stations\ name\n\ \ \ \ \ \ \ \ \ line\ \ \ \ \ \ \ \ \ \ \ \ \ the\ color\ that\ the\ station\ lies\ on\ (ex\:\ green\ line,\ red\ line),\ can\ be\ changed\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ for\ other\ subway\ stations\ where\ the\ lines\ are\ different\ (ex\:\ NY\ uses\ the\ alphabet\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ instead\ of\ colors)\n
+comment2.params=
+comment2.target=java.lang.String\ getStationName()
+comment2.text=\ \n\ getter\ method\n\ \n\ @return\ station_name\ \ \ \ \ the\ station\ name\n
+comment3.params=
+comment3.target=java.lang.String\ getLine()
+comment3.text=\ \n\ getter\ method\n\ \n\ @return\ line\ \ \ \ \ the\ line\ identifier\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ overriding\ the\ toString\ method\n\ \n\ @return\ \ \ \ \ \ a\ redable\ version\ of\ the\ station\ name\ with\ the\ line\ in\ parenthesis\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ ex\:\ Park(red)\n
+comment5.params=other
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ overriding\ the\ equals\ method\n\ \n\ @return\ \ boolean\ \ \ \ \ true\ if\ the\ two\ objects\ are\ the\ same\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\ otherwise\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment6.text=\n\ overriding\ the\ hashCode\ method\n\ \n\ @return\ hashCode\ \ \ \ \ how\ this\ class\ should\ be\ hashed\ and\ looked\ up\ after\ hashing\n
+numComments=7

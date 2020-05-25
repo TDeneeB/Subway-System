@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TopPlaces
+comment1.params=
+comment1.target=TopPlaces()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ places\n
+comment2.params=
+comment2.target=java.util.Hashtable\ getHashPlaces()
+comment2.text=\n\ getter\ method\ \n\ \n\ @return\ places\ \ \ the\ hastable\ of\ a\ place\ and\ the\ name\ of\ the\ closest\ TStation\n
+comment3.params=
+comment3.target=int\ getNumPlaces()
+comment3.text=\n\ getter\ method\n\ \n\ @return\ numPlaces\ \ \ \ the\ integer\ value\ for\ the\ number\ of\ places\ that\ the\ user\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ can\ choose\ from\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ overriding\ the\ to\ string\ method\n\ \n\ @return\ places\ \ \ a\ printable\ string\ version\ of\ the\ hashtable\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getAllPlaces()
+comment5.text=\n\ getter\ method\n\ \n\ @return\ \ allPlaces\ \ \ an\ array\ containing\ all\ the\ places\ that\ are\ able\ to\ be\ visited\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ for\ simple\ testing\ methods\n
+numComments=7
